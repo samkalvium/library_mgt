@@ -1,1 +1,1 @@
-# library_mgt
+# Library Management System
